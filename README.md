@@ -1,4 +1,12 @@
-### Hi there 👋
+### 你好 (nǐ hǎo) 👋
+
+```
+i.name = "Jing Li"
+```
+
+* speak 🇨🇳 🇺🇸 🇩🇪
+* live in [Berlin](https://goo.gl/maps/BVf3ULuYYhdKXBW8A) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Berlin.svg/200px-Flag_of_Berlin.svg.png" width=32>
+* come from [Sichuan](https://en.wikipedia.org/wiki/Sichuan) - hometown of 🐼, 🌶️🌶️🌶️ cuisine
 
 <!--
 **thyrlian/thyrlian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
