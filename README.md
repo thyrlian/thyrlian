@@ -5,7 +5,7 @@ i.name = "Jing Li"
 ```
 
 * speak 🇨🇳 🇺🇸 🇩🇪
-* live in [Berlin](https://goo.gl/maps/BVf3ULuYYhdKXBW8A) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Berlin.svg/200px-Flag_of_Berlin.svg.png" width=32>
+* live in [Berlin](https://goo.gl/maps/BVf3ULuYYhdKXBW8A) <img src="https://github.com/thyrlian/thyrlian/blob/master/assets/images/Flag%20of%20Berlin.png?raw=true" width="28">
 * come from [Sichuan](https://en.wikipedia.org/wiki/Sichuan) - hometown of 🐼, 🌶️🌶️🌶️ cuisine
 * play 🏀
 
