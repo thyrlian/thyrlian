@@ -6,9 +6,9 @@ i.name = "Jing Li"
 
 * speak 🇨🇳 🇺🇸 🇩🇪
 * live in [Berlin](https://goo.gl/maps/BVf3ULuYYhdKXBW8A) <img src="https://github.com/thyrlian/thyrlian/blob/master/assets/images/Flag%20of%20Berlin.png?raw=true" width="28">
-* come from [Sichuan](https://en.wikipedia.org/wiki/Sichuan) - hometown of 🐼, 🌶️🌶️🌶️ cuisine
+* come from [Sichuan](https://en.wikipedia.org/wiki/Sichuan) - hometown of 🐼, is renowned for its 🌶️🌶️🌶️ cuisine
 * play 🏀
-* Top GitHub developer
+* Top GitHub developer 🥇
   * [Top 10 Java dev in Berlin](http://git-awards.com/users?city=berlin&language=java)
   * [Top 5 Docker dev worldwide](http://git-awards.com/users?language=dockerfile)
 
