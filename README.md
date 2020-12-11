@@ -12,6 +12,8 @@ i.name = "Jing Li"
   * [Top 10 Java dev in Berlin](http://git-awards.com/users?city=berlin&language=java)
   * [Top 5 Docker dev worldwide](http://git-awards.com/users?language=dockerfile)
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thyrlian&count_private=true&show_icons=true&theme=blueberry)](https://github.com/thyrlian?tab=repositories)
+
 <!--
 **thyrlian/thyrlian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
