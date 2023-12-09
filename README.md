@@ -10,9 +10,11 @@ i.name = "Jing Li"
 * live in [Berlin](https://goo.gl/maps/BVf3ULuYYhdKXBW8A) <img src="https://github.com/thyrlian/thyrlian/blob/master/assets/images/Flag%20of%20Berlin.png?raw=true" width="28">
 * come from [Sichuan](https://en.wikipedia.org/wiki/Sichuan) - hometown of 🐼, is renowned for its 🌶️🌶️🌶️ cuisine
 * play 🏀
-* Top GitHub developer 🥇
-  * [Top 10 Java dev in Berlin](http://git-awards.com/users?city=berlin&language=java)
-  * [Top 5 Docker dev worldwide](http://git-awards.com/users?language=dockerfile)
+* [Top GitHub developer](https://stardev.io/developers/thyrlian) 🥇
+  * Top 20 Java dev in Berlin
+  * Top 50 Docker dev worldwide
+
+[![My GitHub Ranking](https://stardev.io/developers/thyrlian/badge/languages/global.svg)](https://stardev.io/developers/thyrlian)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thyrlian&count_private=true&show_icons=true&theme=blueberry)](https://github.com/thyrlian?tab=repositories)
 
